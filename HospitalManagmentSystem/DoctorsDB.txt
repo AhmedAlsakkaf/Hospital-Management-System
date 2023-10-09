@@ -1,0 +1,14 @@
+Doctor Age Designation Specialization Username Passwords
+Hasaan_Ahmad 20 MBBS Anatomy hasaand 123
+Salman_Ahmad 20 MBBS Radiology salmand 123
+Mujtaba 20 MBBS Urology mujtabad 123
+Haider 20 MBBS Heart Haider 123
+Furqan_Sheikh 45 MBBS Physiologist furqand 123
+Haris_Ali 30 MBBS Viral_Diseases harisd 123
+ahmed 12 PHD MHP ahmed 123testtt 34 mbbs nothing test3434 123
+Ahmad 22 MBBS HEart AhmadSheikh 123
+Kumail_Hassan 35 MBBS Ortho kumaild 123
+kutalmish 22 MBBS Heart Kutalmish 123
+ahmed 43 mothers fathers mothers fathers
+Ahmed 29 Heart Heart Next Next
+ahmed 23 sm bp sara 12
